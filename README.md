@@ -35,7 +35,9 @@
          haline getiriniz. Mysql bağlantıları sağlanmış olup database hazır hale gelmektedir.
          
    4.Kurulum tamamlanmıştır.
-         
+   
+   #### Bilgilendirme Videosu 
+   https://youtu.be/s2bFxbUBfkQ
          
        
          
