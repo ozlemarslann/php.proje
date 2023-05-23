@@ -15,14 +15,18 @@
          kodları yaptırnız böylece projede kullanılacak olan tabloları oluşturmuş olacaksınız.
          
    3. İndirdiğiniz dosyalar içinde 'config.php' sayfası bulunmaktadır. Lüften bu sayfayı açın. Sayfadaki;
+         
          $host="sql203.epizy.com";
          $user="epiz_34244378";
          $pass="yilNaxhOqnx";
          $name="epiz_34244378_proje"; kısımları alınan domaine ait bilgiler olduğu için bunları xampp için uygun hale getirmek için 
          
          $host="localhost";
+         
          $user="root";
+         
          $pass="";
+         
          $name="proje"; haline getiriniz. Mysql bağlantıları sağlanmış olup database hazır hale gelmektedir.
          
    4.Kurulum tamamlanmıştır.
