@@ -15,7 +15,7 @@ if(isset($_POST["kullanici"])){ // formdaki veriler alınır ve değişkenlere a
     }
     else{
         $user=mysqli_fetch_assoc($back); // veriler bir dizi şekline getirir
-        echo "Giriş başarılı Hoşgeledi Sn. ".$user["isim"]."<br>";
+        echo "Giriş başarılı Hoşgeledin Sn. ".$user["isim"]."<br>";
         echo "<h1>Ürün siparişi vermek için lütfen <a href=urun.php>Sipariş</a> tıklayınız</h1>";        
         exit();
     }
